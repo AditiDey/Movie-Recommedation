@@ -12,7 +12,7 @@ const Footer = () => (
       <a href="https://github.com/AditiDey" target="_blank">
         Made with ❤ by Aditi
       </a>
-      <a href="https://github.com/AditiDey/movierecommendation" target="_blank">
+      <a href="https://github.com/AditiDey/Movie-Recommendation" target="_blank">
         <FontAwesome className="fa fa-github" name="clock-o" />
       </a>
     </div>
