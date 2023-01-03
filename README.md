@@ -5,36 +5,6 @@ flask for handelling the recommendations and similar movies section, mongoDB for
 
 This project uses SurpriseLib for dealing with Cosine similarity based nearest neighbours algorithm for generating recommendations. <br />
 For implimentation purpose dummy users are created using moviewlens 100K dataset. Each user has at least 20 movie ratings. 
-<hr />
-
-<br />
-<img src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/homepage2.png" alt="homepage image"/> <br />
-<hr />
-
-# Features
-
-Recommendations are based on similar users(UserBased Collaborative Filtering) and similar movies (itemBased colaborative filtering)
-<br/>(in deployment the item based model exceeds the available memory limit on the free tier of Heroku so this has not been included)
-<br/>
-<br/>
-<img src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/recommendations1.PNG" alt="" /><br />
-<img src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/recommendations3.PNG" alt="" /><br />
-
-<hr/>
-
-## Similar Movies
-If you like a movie you can easily look for more movies similar to the one you liked in the sililar-movies section available for all the movie-pages
-<img src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/similar.PNG" alt="" /><br />
-
-<hr/>
-
-
-## signin/sugnup with email <br>
-Signin in with Google, Signin with Github have been tested in developement but have not been added to the deployed build yet.
-<br/>
-
-<img alt="" src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/signIn-signUp.PNG" /><br />
-<hr/>
 
 ## Follow users to see their activity in your Feed<br />
 <img alt="user feed image" src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/followingOtherUsers.PNG" /><br/>
