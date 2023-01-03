@@ -9,9 +9,7 @@ import { StyledFooter } from './StyledFooter';
 const Footer = () => (
   <StyledFooter>
     <div className="footer-content">
-      <a href="https://github.com/AditiDey" target="_blank">
-        Made with ❤ by Aditi
-      </a>
+      
       <a href="https://github.com/AditiDey/movierecommendation" target="_blank">
         <FontAwesome className="fa fa-github" name="clock-o" />
       </a>
