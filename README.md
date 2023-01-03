@@ -6,22 +6,6 @@ flask for handelling the recommendations and similar movies section, mongoDB for
 This project uses SurpriseLib for dealing with Cosine similarity based nearest neighbours algorithm for generating recommendations. <br />
 For implimentation purpose dummy users are created using moviewlens 100K dataset. Each user has at least 20 movie ratings. 
 
-## Follow users to see their activity in your Feed<br />
-<img alt="user feed image" src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/followingOtherUsers.PNG" /><br/>
-<img alt="user feed image" src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/feed2.PNG" />
-  
-  <hr />
-
-## Search Movies and See their description, imdb ratings, budget, Earnings, director, cast etc.
-<img src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/searchMovies.PNG" alt="searchMovies.PNG" />
-  <br />
-<img src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/movie.PNG" alt="searchMovies.PNG" />
-  <hr />
-
-
-# Add Movies to WishList
-  <img src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/watchlist.PNG" /><br/>
-
 
 ## Admin View
 <hr/>
