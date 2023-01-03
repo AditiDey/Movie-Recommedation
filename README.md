@@ -7,15 +7,6 @@ This project uses SurpriseLib for dealing with Cosine similarity based nearest n
 For implimentation purpose dummy users are created using moviewlens 100K dataset. Each user has at least 20 movie ratings. 
 
 
-## Admin View
-<hr/>
-
-
-##  User's page
-  <img src="https://github.com/yashodeepchikte/Keep-Watching/blob/master/Images/userpage.PNG" /><br/>
-   
-  <hr/>
-
 
 
 
