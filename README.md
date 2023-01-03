@@ -1,7 +1,7 @@
 # Keep-Watching
 Keep-Watching is a movie recommendation and review app build using React for the front-end, express for the back-end, 
 flask for handelling the recommendations and similar movies section, mongoDB for the database<br />
-## Here is the final website : https://keepwatching.herokuapp.com/
+## Here is the final website : https://movie-node.onrender.com/
 
 This project uses SurpriseLib for dealing with Cosine similarity based nearest neighbours algorithm for generating recommendations. <br />
 For implimentation purpose dummy users are created using moviewlens 100K dataset. Each user has at least 20 movie ratings. 
